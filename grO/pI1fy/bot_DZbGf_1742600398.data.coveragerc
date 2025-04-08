@@ -1,6 +1,0 @@
-[run]
-omit =
-    scripts/*
-    freqtrade/templates/*
-    freqtrade/vendor/*
-    tests/*
